@@ -101,6 +101,6 @@ Therefore, SARIMA was selected as the final forecasting model for future sales p
 
 **Om Raskar**
 
-LinkedIn: *(Add your LinkedIn Profile Link)*
+LinkedIn: http://linkedin.com/in/om-raskar-566338220
 
-GitHub: *(Add your GitHub Profile Link)*
+GitHub: https://github.com/om-raskar291
